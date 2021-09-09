@@ -1,4 +1,4 @@
-# DuplicateMe
+# Duplicate Me
 ## An Easy Windows Application for duplicating images 
 
 Desktop Application to help duplicating images quickly to a lot amount of copys.
